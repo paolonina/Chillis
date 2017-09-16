@@ -1,2 +1,4 @@
 # Chillis
-Sitio web de prueba echo en wordpress
+Sitio web de prueba hecho en wordpress
+
+Hola soy Paolo
